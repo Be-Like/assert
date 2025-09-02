@@ -1,0 +1,37 @@
+{
+  "name": "@assert/primitives",
+  "version": "0.1.0",
+  "author": "Jake Simpson <jake@belike.one> (https://jake.belike.one/about)",
+  "description": "A utility that provides simple assertions against JavaScript primitives in addition to providing duck-type assertions",
+  "keywords": [
+    "utilities",
+    "assert",
+    "assertions",
+    "duck typing",
+    "javascript",
+    "library",
+    "validation",
+    "primitives",
+    "type check",
+    "light-weight"
+  ],
+  "homepage": "https://github.com/Be-Like/assert",
+  "bugs": {
+    "url": "https://github.com/Be-Like/assert/issues",
+    "email": "jake@belike.one",
+  },
+  "license": "MIT",
+  "funding": "https://paypal.me/BeLikeStudios",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Be-Like/assert.git"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "peerDependencies": {},
+  "engines": {
+    "node": ">=20",
+    "npm": ">=9"
+  },
+}
+
